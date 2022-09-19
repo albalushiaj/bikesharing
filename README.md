@@ -40,4 +40,4 @@ Suggestions:
 - A visualization showing the correlation between bike repair, and utilization as well as a visualization of number of bikes stolen, and cost of replacement. 
 
 [link to dashboard](https://prod-useast-a.online.tableau.com/#/site/albalushiaj/workbooks/673459?:origin=card_share_link)
-[link to dashboard](LINK GOES HERE "link to dashboard")
+
