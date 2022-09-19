@@ -38,3 +38,5 @@ Suggestions:
 - Common routes bikers use.
 -  Usertype by gender to have a deeper knowledge on the difference between genders, and usage. This information can be good for targeted campaigns
 - A visualization showing the correlation between bike repair, and utilization as well as a visualization of number of bikes stolen, and cost of replacement. 
+
+https://prod-useast-a.online.tableau.com/#/site/albalushiaj/workbooks/673459?:origin=card_share_link
